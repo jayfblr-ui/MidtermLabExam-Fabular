@@ -1,2 +1,2 @@
-# MidtermLabExam - Fabular
+# LabPractice - Fabular
 Lab Exam for Midterms
